@@ -98,11 +98,3 @@
 
 # Ignore OS generated files #
 .DS_Store*
-
-# Ignore local dev environments #
-.ddev/*
-/web/sites/default/settings.php
-
-# Ignore composer.lock to avoid site level conflicts #
-composer.lock
-
